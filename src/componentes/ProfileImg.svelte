@@ -1,5 +1,5 @@
 <script lang="ts">
-	  const profileImg:string  = 'image/profile.png'
+	const profileImg:string  = 'image/profile.png'
 </script>
 
 <div class="profile-container">
